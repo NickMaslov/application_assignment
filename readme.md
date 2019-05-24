@@ -1,6 +1,6 @@
 # Updated readme.md
 
-###To run the progect command in terminal
+### To run the progect command in terminal
 ```npm start``` 
 ### and go to 
 
