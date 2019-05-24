@@ -1,3 +1,17 @@
+# Updated readme.md
+
+###To run the progect command in terminal
+```npm start``` 
+### and go to 
+
+[http://localhost:3000](http://localhost:3000)
+
+### for new quotes just refresh page
+
+# Below is assignment requiments
+
+
+
 # Assignment
 
 ## Objectives
